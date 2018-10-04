@@ -21,5 +21,4 @@ int main() {
 
     cout << fibonacci(10) << endl;
 
-    system("PAUSE");
 }
